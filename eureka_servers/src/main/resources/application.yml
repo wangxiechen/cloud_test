@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: eureka-servers
+  cloud:
+    config:
+      uri: http://localhost:7001
+      label: master
+      profile: dev
