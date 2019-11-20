@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/wangxiechen/cloud_test.git
           search-paths:  config_repo
