@@ -8,6 +8,9 @@
         <module>provider_service</module>
         <module>consumer_service</module>
         <module>zuule_service</module>
+        <module>exam_api</module>
+        <module>price_service</module>
+        <module>rule_service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
